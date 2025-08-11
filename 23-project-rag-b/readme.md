@@ -50,3 +50,9 @@ python app.py
 ### Vue3互动教程
 
 https://cn.vuejs.org/tutorial/#step-1
+
+### 主界面
+![Sample Image](https://raw.githubusercontent.com/uu0407ma-ai/RAG_2/master/23-project-rag-b/main.png)
+
+### 文档上传界面(外部知识)
+![Sample Image](https://raw.githubusercontent.com/uu0407ma-ai/RAG_2/master/23-project-rag-b/up_file.png)
